@@ -1,0 +1,34 @@
+html,
+body,
+h1,
+dd {
+	margin: 0;
+	padding: 0;
+}
+html,
+body,
+main {
+	height: 100%;
+}
+main {
+	margin: 0 auto;
+	width: 80%;
+}
+.bold {
+	font-weight: 700;
+}
+h1 {
+	background-color: #09f;
+	float: left;
+	color: #fff;
+	padding-top: 60px;
+	width: 20%;
+	box-sizing: border-box;
+	height: 100%;	
+	text-align: center;
+	margin-right: 20px;
+
+}
+section {
+	
+}
